@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 José Becerra Robles  
+# 👨‍💻  
 ### Software Development Student | Discipline • Code • Growth  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollo+de+Software;Programación+desde+cero+hasta+avanzado;Disciplina+%7C+Fitness+%7C+Código;Aprendizaje+constante" />
@@ -47,9 +47,6 @@
 📱 **App de Entrenamiento (Android)**  
 ✔ Rutinas, progresión y control de ejercicios  
 
-🎮 **Videojuego en Unity (C#)**  
-✔ Programación, diseño y lógica de juego  
-
 📊 **Programas en C/C++**
 ✔ Archivos, estructuras, punteros, estadística  
 
@@ -59,39 +56,12 @@
 
 - Fortaleciendo **bases en C, C++ y Python**
 - Mejorando lógica y algoritmos
-- Desarrollo de videojuegos en Unity
 - Explorando fundamentos de **Inteligencia Artificial**
 - Documentando mejor mis proyectos
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
-
-</div>
-
----
-
-## 🔥 Filosofía
-
-> *“La disciplina vence a la motivación.”*  
-> Código todos los días. Progreso constante. Sin excusas.
-
----
-
-## 📬 Contacto
-
-📧 **Email:** _(agrégalo aquí)_  
-💼 **GitHub:** https://github.com/TU_USUARIO  
 
 ---
 
 <div align="center">
-
-⭐ Si te gusta mi perfil o alguno de mis proyectos, no dudes en dejar una estrella ⭐  
 
 </div>
