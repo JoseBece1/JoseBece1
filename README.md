@@ -3,8 +3,6 @@
 # 👨‍💻  
 ### Software Development Student | Discipline • Code • Growth  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollo+de+Software;Programación+desde+cero+hasta+avanzado;Disciplina+%7C+Fitness+%7C+Código;Aprendizaje+constante" />
-
 </div>
 
 ---
