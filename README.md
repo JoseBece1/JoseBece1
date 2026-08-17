@@ -1,19 +1,10 @@
 <div align="center">
 
-# 👨‍💻  
+# 💪
 ### Software Development Student | Discipline • Code • Growth  
 
 </div>
 
----
-
-## 🧠 Sobre mí
-
-💻 Estudiante de **Desarrollo de Software** con enfoque en construir **bases sólidas**, buenas prácticas y proyectos reales.  
-📚 Me gusta aprender **cómo funcionan las cosas por dentro**, no solo usarlas.  
-🏋️‍♂️ El **fitness** es parte de mi vida y me ha enseñado disciplina, constancia y mentalidad a largo plazo, valores que aplico en el código.
-
----
 
 ## 🛠️ Tech Stack
 
